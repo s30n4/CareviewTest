@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareviewTest", "CareviewTest\CareviewTest.csproj", "{8D620714-912E-416F-A922-1F603CCD085F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareviewTest.Tests", "CareviewTest.Tests\CareviewTest.Tests.csproj", "{FB8018E8-E257-4059-BA8F-3A7F0F6652E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D620714-912E-416F-A922-1F603CCD085F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D620714-912E-416F-A922-1F603CCD085F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D620714-912E-416F-A922-1F603CCD085F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D620714-912E-416F-A922-1F603CCD085F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB8018E8-E257-4059-BA8F-3A7F0F6652E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8018E8-E257-4059-BA8F-3A7F0F6652E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8018E8-E257-4059-BA8F-3A7F0F6652E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8018E8-E257-4059-BA8F-3A7F0F6652E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB5A47B9-6888-4BB6-8B89-B1B2541F9652}
+	EndGlobalSection
+EndGlobal
